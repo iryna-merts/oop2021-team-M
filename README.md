@@ -1,7 +1,8 @@
 # oop2021-team-M
 
 ## Application "Design Doggy"
-Development the application "Design Doggy" for studying of web designers. Creating a software product to provide developers with a base of approaches and principles of web design in interactive way.
+Development the application "Design Doggy" for studying of web designers. 
+Creating a software product to provide developers with a base of approaches and principles of web design in interactive way.
 
 ## Functionality
 - studying elements are divided into 3 chapters of different complexity
